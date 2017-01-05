@@ -1,4 +1,4 @@
 safe: false
 gems:
   - jekyll-redirect-from
- site: bb
+site: bb
